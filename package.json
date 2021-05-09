@@ -18,7 +18,7 @@
         "cross-env": "^3.2.3",
         "jquery": "^3.5.0",
         "laravel-mix": "^2.1.14",
-        "lodash": "^4.17.13"
+        "lodash": "^4.17.21"
     },
     "dependencies": {
         "amdefine": "^1.0.1",
